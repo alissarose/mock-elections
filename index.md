@@ -2,8 +2,5 @@
 
 <h3> :point_right: <a href="https://alissarose.github.io/mock-elections/mock-election-locations/"> Locations can be seen here</a></h3>
 
-<h4> or here </h4>
-
-<iframe width="100%" height="315" src="/mock-election-locations" frameborder="0" allowfullscreen=""></iframe>
 
 
