@@ -1,6 +1,6 @@
-<h1> HOME PAGE :wave: </h1>
+# HOME PAGE :wave: 
 
-<h3> :point_right: <a href="https://alissarose.github.io/mock-elections/mock-election-locations/"> Locations can be seen here</a></h3>
+### :point_right: <a href="https://alissarose.github.io/mock-elections/mock-election-locations/"> Locations can be seen here</a>
 
 
 
